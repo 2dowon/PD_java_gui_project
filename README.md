@@ -37,7 +37,7 @@ PLAYBOX는 [Playdata](https://playdata.io/)에서 진행한 미니 팀프로젝�
 
 ## Presentation
 
-- [PLAYBOX 발표 자료(PPT)](https://docs.google.com/presentation/d/1EQFsqcizLspDQvaiMGMRA7F0dDtOA6Wprwe3tOWUknI/edit?usp=sharing)
+- [PLAYBOX 발표 자료(PPT)](https://docs.google.com/presentation/d/e/2PACX-1vQBlx91N3M7luuwuRGgi1fV-fRahccpI-apbQX6a0Bh8wdSB4SzYUMgifETdxgVAhncSd7YFOPfJ_WZ/pub?start=false&loop=false&delayms=3000)
 
 - [PLAYBOX 발표 영상](https://www.youtube.com/watch?v=_rA1pb8pquU&feature=youtu.be)
 
